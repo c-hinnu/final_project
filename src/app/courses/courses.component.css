@@ -1,0 +1,54 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 1cm;
+  }
+
+  .card {
+    background-color: rgb(255, 255, 255);
+  }
+
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .search-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+  }
+  #button {
+    border-color:rgb(108, 95, 143);
+    background-color:rgb(108, 95, 143) ;
+    color:white;
+
+  }
+  .body{
+    background-image: linear-gradient(to bottom, rgba(201, 201, 201, 0.454), rgba(190, 150, 208, 0.66));
+  }
+  
+
+  .search-input {
+    width: 800px;
+    margin-right: 0.5rem;
+  }
+
+  .search-button {
+    border-radius: 12px;
+  }
+
+  .card-body {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .card-title {
+    margin-bottom: 0.5rem;
+  }
+
+  .enroll-button{
+    margin-right: 0.5rem;
+    
+  }
+ 

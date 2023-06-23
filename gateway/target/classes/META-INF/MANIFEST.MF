@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: 235754
+Build-Jdk: 17.0.7
+Implementation-Title: gateway
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://spring.io/projects/spring-boot/gateway
+Created-By: Maven Integration for Eclipse
+
